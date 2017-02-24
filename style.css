@@ -18,7 +18,7 @@ body {
 	border-width: 30px;
 	border-left-width: 15px;
 	border-right-width: 5px;
-	border-color: red;
+	border-color: #e44132;
 	font: 90% 'Ubuntu', sans-serif;
 	line-height: 1.88889;
 	color: #555753;
@@ -32,7 +32,7 @@ p {
 	}
 h3 {
 
-	font: italic normal 1.6em 'Lato', sans-serif;
+	font: italic normal 1.2em 'Lato', sans-serif;
 	text-decoration: underline;
 	letter-spacing: 1px;
 	margin-bottom: 0;
@@ -63,6 +63,11 @@ abbr {
 	padding: 0 175px 0 110px;
 	margin: 0;
 	position: relative;
+	border-style: solid;;
+	border-width: 30px;
+	border-left-width: 15px;
+	border-right-width: 5px;
+	border-color: white;
 	}
 
 .intro {
@@ -187,7 +192,7 @@ footer a:link, footer a:visited {
 	color: #988F5E;
 	}
 .sidebar li a:visited {
-	color: #B3AE94;
+	color: black;
 	}
 
 
