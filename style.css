@@ -14,7 +14,7 @@ html {
 	padding: 0;
 	}
 body {
-	font: 75% arial, sans-serif;
+	font: 90% 'Ubuntu', sans-serif;
 	line-height: 1.88889;
 	color: #555753;
 	background: #f4b3ad url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right;
@@ -26,7 +26,8 @@ p {
 	text-align: justify;
 	}
 h3 {
-	font: italic normal 1.4em arial, sans-serif;
+	font: italic normal 1.6em 'Lato', sans-serif;
+	text-decoration: underline;
 	letter-spacing: 1px;
 	margin-bottom: 0;
 	color: #5b1a14;
